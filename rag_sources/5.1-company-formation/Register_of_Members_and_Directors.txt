@@ -1,0 +1,30 @@
+REGISTER OF MEMBERS AND DIRECTORS
+[Company Name] Limited (ADGM)
+
+Part A – Register of Members
+Fields: Name/Entity; Address; Nationality/Jurisdiction; Number/Type of Shares; Amount Paid/Unpaid; Date of Registration; Date of Cessation (if applicable).
+
+Entry 1
+Name: [Shareholder Name]
+Address: [Address]
+Nationality/Jurisdiction: [Country]
+Shares: [Number and class]
+Paid/Unpaid: [e.g., Fully Paid]
+Date Registered: [DD Month YYYY]
+Date of Cessation: [if any]
+
+Part B – Register of Directors
+Fields: Name; Address; Nationality; Date of Birth; Occupation; Date of Appointment; Date of Resignation (if any).
+
+Director 1
+Name: [Director Name]
+Address: [Address]
+Nationality: [Country]
+Date of Birth: [DD/MM/YYYY]
+Occupation: [Occupation]
+Date Appointed: [DD Month YYYY]
+Date Resigned: [if any]
+
+Notes:
+- The Company must keep this register at its registered office and make it available for inspection as required by ADGM Companies Regulations.
+- Updates must be made promptly following any change in share ownership or directorships.

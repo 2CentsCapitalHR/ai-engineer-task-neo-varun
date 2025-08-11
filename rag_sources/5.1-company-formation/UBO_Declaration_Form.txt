@@ -1,0 +1,28 @@
+ULTIMATE BENEFICIAL OWNER (UBO) DECLARATION FORM
+[Company Name] Limited (ADGM)
+
+1. Declarant Details
+Full Name: [Name]
+Nationality: [Country]
+Date of Birth: [DD/MM/YYYY]
+Residential Address: [Address]
+Identification Document: [Passport/ID] No. [Number]; Issuing Country: [Country]
+
+2. Beneficial Ownership
+I hereby declare that I am a beneficial owner of [Company Name] Limited and that I directly/indirectly own or control [percentage]% of the shares/voting rights or otherwise exercise significant control over the Company.
+
+3. Source of Ownership/Control
+[Describe shareholdings, ownership chain or control mechanism]
+
+4. Politically Exposed Person (PEP) Status
+[ ] I am not a PEP
+[ ] I am a PEP – Details: [Provide details]
+
+5. Declarations and Undertakings
+I confirm that the information provided is true, complete and accurate. I undertake to notify the Company promptly of any changes to the above information.
+
+Signature of Declarant: ______________________    Date: [DD Month YYYY]
+
+Accepted for and on behalf of the Company:
+Name: [Director/Company Secretary]
+Signature: ______________________    Date: [DD Month YYYY]

@@ -1,0 +1,22 @@
+WRITTEN RESOLUTION OF THE MEMBERS OF
+[Company Name] LIMITED (the Company)
+(an ADGM Private Company Limited by Shares)
+
+Date: [DD Month YYYY]
+
+The following resolutions are proposed and, if agreed by the required majority of Members, shall be as effective as if passed at a general meeting of the Company.
+
+ORDINARY RESOLUTION
+THAT [describe matter, e.g., the appointment of [Name] as Director of the Company with immediate effect] be approved.
+
+SPECIAL RESOLUTION
+THAT [describe matter requiring special resolution, e.g., adoption of new Articles of Association in the form attached] be approved.
+
+Members’ Signatures:
+Name: [Member 1]    Shares held: [Number]    Signature: __________________
+Name: [Member 2]    Shares held: [Number]    Signature: __________________
+
+Notes:
+- An Ordinary Resolution requires a simple majority of votes cast by Members.
+- A Special Resolution requires at least 75% of votes cast by Members.
+- This written resolution may consist of several instruments in like form, each signed by one or more Members.

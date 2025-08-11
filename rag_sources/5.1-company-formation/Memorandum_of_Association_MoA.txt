@@ -1,0 +1,36 @@
+MEMORANDUM OF ASSOCIATION
+of [Company Name] Limited
+(an ADGM Private Company Limited by Shares)
+
+1. Company Name
+The name of the Company is [Company Name] Limited.
+
+2. Registered Office
+The registered office of the Company shall be situated in the Abu Dhabi Global Market (ADGM).
+
+3. Objects
+The objects for which the Company is established are unrestricted, except as may be limited by applicable law, and include (without limitation):
+3.1 To carry on the business of [describe core business activities].
+3.2 To acquire, hold, dispose of and deal with property and assets of any kind.
+3.3 To borrow or raise money and to secure or discharge any debt or obligation in such manner as the Company thinks fit.
+3.4 To enter into contracts and arrangements of all kinds and to do all such other acts and things as are incidental or conducive to the attainment of the above objects.
+
+4. Liability of Members
+The liability of the Members is limited to the amount unpaid on the Shares held by them.
+
+5. Share Capital
+The share capital of the Company is [amount], divided into [number] Shares of [nominal value] each.
+
+6. Subscribers
+We, the persons whose names and addresses are subscribed, wish to be formed into a company pursuant to this Memorandum, and we agree to take the number of Shares in the capital of the Company set opposite our respective names.
+
+Subscriber Details:
+Name: [Name]
+Address: [Address]
+Number of Shares taken: [Number]
+Signature: ______________________    Date: [DD Month YYYY]
+
+Witness:
+Name: [Name]
+Address: [Address]
+Signature: ______________________    Date: [DD Month YYYY]

@@ -1,0 +1,94 @@
+ARTICLES OF ASSOCIATION
+of [Company Name] Limited
+(an ADGM Private Company Limited by Shares)
+
+1. Preliminary
+1.1 The name of the Company is [Company Name] Limited (the Company).
+1.2 The Company is incorporated in the Abu Dhabi Global Market (ADGM) and is subject to ADGM Companies Regulations and applicable rules.
+1.3 The liability of the Members is limited to the amount unpaid on the shares held by them.
+
+2. Interpretation
+2.1 In these Articles, unless the context requires otherwise:
+	Board means the board of Directors of the Company;
+	Director means a director of the Company from time to time;
+	Member means a holder of shares in the Company;
+	Ordinary Resolution has the meaning given in ADGM Companies Regulations;
+	Special Resolution has the meaning given in ADGM Companies Regulations;
+	Shares means shares in the capital of the Company of any class.
+2.2 Headings are for convenience only and do not affect interpretation.
+
+3. Share Capital and Variation of Rights
+3.1 The share capital of the Company is [Authorised/Issued] share capital of [number] Shares of [class] with a nominal value of [amount] each.
+3.2 The Company may issue and allot Shares as the Board determines, subject to any pre-emption rights under these Articles or applicable law.
+3.3 The rights attached to any class of Shares may be varied with the consent in writing of holders of at least [75%] in nominal value of that class or by a Special Resolution passed at a separate meeting of the holders of that class.
+
+4. Share Certificates
+4.1 Every person whose name is entered as a Member in the register of Members shall be entitled without payment to one certificate for all the Shares of each class held by that person.
+4.2 If a certificate is defaced, lost or destroyed, it may be renewed on such terms as the Board may determine.
+
+5. Transfers of Shares
+5.1 Shares are transferable by instrument of transfer in any usual or common form or in any other form approved by the Board.
+5.2 The Board may refuse to register any transfer of Shares not fully paid or on which the Company has a lien, or where the transfer would breach applicable laws or these Articles.
+
+6. Pre-emption on Allotment
+6.1 Unless disapplied by Special Resolution, where the Company proposes to allot equity securities, it shall first offer them to existing Members pro rata to their existing holdings on terms and within a period specified by the Board (being not less than 7 business days).
+
+7. Lien and Calls on Shares
+7.1 The Company shall have a first and paramount lien on every Share (not being a fully paid Share) for all monies presently payable on that Share.
+7.2 The Board may make calls upon the Members in respect of any monies unpaid on their Shares and Members shall pay the amount of each call to the person and at the time and place specified.
+
+8. General Meetings
+8.1 The Board may call general meetings and must do so on requisition of Members in accordance with the ADGM Companies Regulations.
+8.2 At least [14] clear days’ notice of a general meeting shall be given to Members, specifying the place, date, time, and general nature of the business.
+8.3 The quorum for a general meeting is [two Members present in person or by proxy]/[one Member where the Company has a single Member].
+8.4 Resolutions are decided by show of hands or poll as determined by the chair. Proxies may vote on a poll.
+
+9. Written Resolutions of Members
+9.1 A resolution of the Members may be passed as a written resolution in accordance with the ADGM Companies Regulations.
+
+10. Directors
+10.1 The Company shall have at least [one] Director and may appoint additional Directors by Board or Member resolution.
+10.2 The Board may appoint a chair and regulate its proceedings as it sees fit, subject to these Articles.
+10.3 A Director may resign by written notice to the Company. Members may remove a Director by Ordinary Resolution.
+
+11. Directors’ Powers and Duties
+11.1 The business of the Company shall be managed by the Board, which may exercise all the powers of the Company not required by law or these Articles to be exercised by the Members.
+11.2 A Director must avoid a situation in which they have, or can have, a direct or indirect interest that conflicts with the interests of the Company unless authorised in accordance with the law and these Articles.
+11.3 A Director who is in any way interested in a proposed transaction with the Company must declare the nature and extent of that interest.
+
+12. Board Meetings
+12.1 The Board may meet, adjourn, and otherwise regulate its meetings as it thinks fit. The quorum for a Board meeting shall be [two Directors]/[one Director where only one Director is appointed].
+12.2 Questions arising at a meeting shall be decided by a majority of votes. In the case of an equality of votes, the chair shall have a casting vote (if appointed and authorised).
+12.3 A resolution in writing signed by all Directors entitled to receive notice of a meeting is as valid as if passed at a meeting.
+
+13. Company Secretary
+13.1 The Board may appoint a secretary (optional) and determine the terms of appointment.
+
+14. Dividends and Reserves
+14.1 The Company may by Ordinary Resolution declare dividends, and the Board may pay interim dividends if justified by the financial position of the Company.
+14.2 No dividend may be paid otherwise than out of profits available for distribution.
+14.3 The Board may set aside out of profits such sums as it thinks proper as reserves.
+
+15. Accounts, Records and Audit
+15.1 Accounting records shall be kept in accordance with ADGM requirements and shall be available for inspection by Directors at all times.
+15.2 Annual accounts shall be prepared and, where required, audited in accordance with applicable law.
+
+16. Indemnity and Insurance
+16.1 Subject to applicable law, every Director and officer of the Company shall be indemnified out of the assets of the Company against any liability incurred by them in connection with the proper performance of their duties.
+16.2 The Company may purchase and maintain insurance for Directors and officers against any such liability.
+
+17. Notices
+17.1 Notices may be given by the Company to any Member personally, by post to their registered address, or by electronic means where permitted and consented to.
+
+18. Winding Up
+18.1 If the Company is wound up, the liquidator may, with the sanction of a Special Resolution, divide among the Members in specie or kind the whole or any part of the assets of the Company.
+
+19. Governing Law
+19.1 These Articles are governed by and construed in accordance with the laws of the Abu Dhabi Global Market.
+
+Schedule 1 – Share Classes (if any)
+Class A (Ordinary): one vote per share; rights to dividends and capital.
+Class B (Non-voting): no voting rights; rights to dividends and capital as determined.
+Class C (Preferred): preferential dividend of [x]% and priority on return of capital.
+
+[Signature/Date for records]
